@@ -1,2 +1,4 @@
 # git-commands
-This contains git commands - Shubham Rana
+This contains git commands
+<br>
+Author - Shubham Rana
